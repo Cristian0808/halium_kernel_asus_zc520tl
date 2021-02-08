@@ -1,0 +1,7 @@
+#ranyanhao 20160104 begin
+config WIND_DEVICE_INFO
+	bool "CONFIG_WIND_DEVICE_INFO"
+	default n
+	help
+		Select y or n
+#ranyanhao 20160104 end

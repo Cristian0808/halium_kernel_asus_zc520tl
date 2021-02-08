@@ -1,0 +1,30 @@
+#ranyanhao 20160216 begin
+config MTK_GF318_SUPPORT
+	bool "CONFIG_MTK_GF318_SUPPORT"
+	default n
+	help
+		Select y or n
+#ranyanhao 20160216 end
+
+#zhenglihong 20160430 begin
+config MTK_AFS121_SUPPORT
+	bool "CONFIG_MTK_AFS121_SUPPORT"
+	default n
+	help
+		Select y or n
+#zhenglihong 20160430 end
+
+#liukangping@wind-mobi 20160421 begin
+config MTK_SILEAD6163
+        bool "CONFIG_MTK_SILEAD6163"
+        default n
+	help
+        It support different fingerprint sensor.
+        If this option is set,
+	  	it will support fingerprint driver.	
+		
+#liukangping@wind-mobi 20162416 end
+
+
+
+     

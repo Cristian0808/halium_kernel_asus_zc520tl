@@ -1,0 +1,7 @@
+#yutao 20160601 begin
+config MTK_USBSW
+  bool "CONFIG_MTK_USBSW"
+  default n
+  help
+    CONFIG_MTK_USBSW
+#yutao 20160601 end

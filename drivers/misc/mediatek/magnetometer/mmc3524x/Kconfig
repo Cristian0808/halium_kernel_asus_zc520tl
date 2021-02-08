@@ -1,0 +1,7 @@
+#ranyanhao 20160118 begin
+config MTK_MMC3524X
+	bool "CONFIG_MTK_MMC3524X"
+	default n
+	help
+		Select mmc3524x driver y or n
+#ranyanhao 20160118 end

@@ -1,0 +1,7 @@
+#hebiao 2015112 begin	  
+config MTK_N2DM
+	bool "CONFIG_MTK_N2DM"
+	default n
+	help 
+		Select N2DM driver y or n
+#hebiao 2015112 end
